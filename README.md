@@ -2,13 +2,13 @@
 5个智能体(机器人)
 
 
-![Success](results/example2.gif =100x)
+![Success](results/example2.gif)
 
 
 11个智能体(机器人)
 
 
-![Failure](results/example1.gif =100x)
+![Failure](results/example1.gif)
 
 
 ## 模块说明
