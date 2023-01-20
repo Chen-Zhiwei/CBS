@@ -1,14 +1,9 @@
 # CBS
-5个智能体(机器人)
 
+|            5个智能体(机器人)            |            11个智能体(机器人)           |
+|:--------------------------------------:|:--------------------------------------:|
+| ![Success](results/example2.gif) | ![Failure](results/example1.gif)|
 
-![Success](results/example2.gif)
-
-
-11个智能体(机器人)
-
-
-![Failure](results/example1.gif)
 
 
 ## 模块说明
