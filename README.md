@@ -1,5 +1,15 @@
 # CBS
+5个智能体(机器人)
+![Success](results/example2.gif)
+
+
+11个智能体(机器人)
+![Failure](results/example1.gif)
+
+
 ## 模块说明
+
+
 cbs.py：对于mission/input中的yaml文件进行多智能体的路径规划，可直接运行命令
 ```
 python cbs.py
@@ -20,6 +30,8 @@ python visualize.py mission/input/5/input1.yaml mission/input/5/input1.yaml samp
 evaluation.py：在运行该cbs.py得到输出的output.yaml文件后进行实验评估，输出time.png和succ.png两张图以及具体信息。
 
 mission/randomCreateMission.py：随机生成input.yaml文件作为路径规划的任务
+
+
 
 
 ## 实验
