@@ -1,10 +1,14 @@
 # CBS
 5个智能体(机器人)
-![Success](results/example2.gif)
+
+
+![Success](results/example2.gif =100x100)
 
 
 11个智能体(机器人)
-![Failure](results/example1.gif)
+
+
+![Failure](results/example1.gif =100x100)
 
 
 ## 模块说明
